@@ -1,2 +1,1 @@
-# Ms-Excel-Data-Analysis
-Sales Data Analysis using Excel
+Data Analysis using Excel Queries on Sales Data
